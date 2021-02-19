@@ -1,0 +1,13 @@
+c:/users/mralp/onedrive/belgeler/visual studio 2012/Projects/GameProject/bin/Debug/GameProject.exe.config
+c:/users/mralp/onedrive/belgeler/visual studio 2012/Projects/GameProject/bin/Debug/GameProject.exe
+c:/users/mralp/onedrive/belgeler/visual studio 2012/Projects/GameProject/bin/Debug/GameProject.pdb
+c:/users/mralp/onedrive/belgeler/visual studio 2012/Projects/GameProject/obj/Debug/GameProject.csprojResolveAssemblyReference.cache
+c:/users/mralp/onedrive/belgeler/visual studio 2012/Projects/GameProject/obj/Debug/GameProject.exe
+c:/users/mralp/onedrive/belgeler/visual studio 2012/Projects/GameProject/obj/Debug/GameProject.pdb
+/home/suleyman/RiderProjects/GameProject/bin/Debug/GameProject.exe.config
+/home/suleyman/RiderProjects/GameProject/bin/Debug/GameProject.exe
+/home/suleyman/RiderProjects/GameProject/bin/Debug/GameProject.pdb
+/home/suleyman/RiderProjects/GameProject/obj/Debug/GameProject.csprojAssemblyReference.cache
+/home/suleyman/RiderProjects/GameProject/obj/Debug/GameProject.csproj.CoreCompileInputs.cache
+/home/suleyman/RiderProjects/GameProject/obj/Debug/GameProject.exe
+/home/suleyman/RiderProjects/GameProject/obj/Debug/GameProject.pdb
